@@ -1,0 +1,18 @@
+# IntelliJ
+.idea/
+*.iml
+
+# VS Code
+.vscode/
+
+# Backend - Spring Boot / Maven
+back_end/target/
+
+# Frontend - Node.js
+front_end/node_modules/
+
+# Environment
+.env
+
+# Logs
+*.log
