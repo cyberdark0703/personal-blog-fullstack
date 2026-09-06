@@ -6,7 +6,7 @@ server:
 # application - datasource - jpa
 spring:
   application:
-    name: personal_blog
+    name: personal_blog_master
   datasource: 
     url: ${DBMS_CONNECTION:jdbc:mysql://localhost:3306/personal-blog}
     driver-class-name: "com.mysql.cj.jdbc.driver"
