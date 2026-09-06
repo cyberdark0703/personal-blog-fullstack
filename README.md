@@ -1,2 +1,2 @@
-# personal-blog-backend
-Spring Boot Blog Backend
+# personal-blog-fullstack
+Spring Boot Blog fullstack
