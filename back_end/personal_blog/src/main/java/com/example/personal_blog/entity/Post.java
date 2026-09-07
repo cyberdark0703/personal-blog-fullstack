@@ -17,7 +17,7 @@ import lombok.NoArgsConstructor;
 public class Post {
 
     private Long id;
-    private String title;
+    private String title = "conflict b";
     private String content;
     private String status;
     private LocalDateTime createdAt;
