@@ -13,6 +13,7 @@ import lombok.NoArgsConstructor;
 @AllArgsConstructor
 @NoArgsConstructor
 public class User {
+    // Add validation for User API
     @Id
     private Long id;
     private String username = "master";
