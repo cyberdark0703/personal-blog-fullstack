@@ -13,9 +13,10 @@ import lombok.NoArgsConstructor;
 @AllArgsConstructor
 @NoArgsConstructor
 public class User {
+    // Add validation for User API
     @Id
     private Long id;
-    private String username;
+    private String username = "master";
     private String email;
     private String password;
     private String role;
